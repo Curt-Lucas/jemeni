@@ -6,7 +6,7 @@ A new breed of cryptography. J.E.M.E.N.I enables the peer-to-peer (P2P) sending 
 
 ## Purpose
 
-Using an algorithm and key, transform an input (i.e., plaintext) into an encrypted output (i.e., cipher-experimental)
+Using an algorithm and key, transform an input (i.e., plaintext) into an encrypted output (i.e., ciphertext, experimental)
 
 ## Goals
 
