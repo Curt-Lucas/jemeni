@@ -11,5 +11,3 @@ Using an algorithm and key, transform an input (i.e., plaintext) into an encrypt
 ## Goals
 
 Create unique outside-of-the-box cryptography solutions that are accessible to everyone.
-
-Incorporate dice rolling from One-Time-Pad 
